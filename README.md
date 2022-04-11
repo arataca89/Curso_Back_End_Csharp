@@ -9,6 +9,13 @@ Este README foi feito usando a ferramenta: [Dillinger](https://dillinger.io)
 > 
 > prática de uso do git
 
+<br>
+
+```sh
+Criada nova branch
+para alterações no trabalho
+```
+
 <br><br>
 ### _Exemplos de diversas marcações para exibição de texto no README_
 
