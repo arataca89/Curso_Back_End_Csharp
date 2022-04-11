@@ -5,7 +5,7 @@ Este README foi feito usando a ferramenta: [Dillinger](https://dillinger.io)
 
 > README alterado AQUI
 > 
-> Estas alteração será usada para
+> Esta alteração será usada para
 > 
 > prática de uso do git
 
