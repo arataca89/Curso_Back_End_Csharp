@@ -3,11 +3,14 @@
 
 Este README foi feito usando a ferramenta: [Dillinger](https://dillinger.io)
 
+> README alterado AQUi
+> Estas alteraÃ§Ã£o serÃ¡ usada para
+> prÃ¡tica de uso do git
 
-### _Exemplos de diversas marcações para exibição de texto no README_
+### _Exemplos de diversas marcaÃ§Ãµes para exibiÃ§Ã£o de texto no README_
 
 ---
-DIO - Abstraindo um Bootcamp Usando Orientação a Objetos em Java
+DIO - Abstraindo um Bootcamp Usando OrientaÃ§Ã£o a Objetos em Java
 
 ----
 
