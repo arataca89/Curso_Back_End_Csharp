@@ -21,4 +21,6 @@ git push -u origin master		Publica as alterações no repositório remoto.
 
 git pull						Baixa as alterações no repositório remoto.
 
+git clone DIRETORIO_REMOTO		Clona um diretorio remoto em sua maquina local.
+
 arataca89@gmail.com
