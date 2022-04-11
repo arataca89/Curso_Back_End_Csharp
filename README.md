@@ -9,6 +9,7 @@ Este README foi feito usando a ferramenta: [Dillinger](https://dillinger.io)
 > 
 > prática de uso do git
 
+<br><br>
 ### _Exemplos de diversas marcações para exibição de texto no README_
 
 ---
