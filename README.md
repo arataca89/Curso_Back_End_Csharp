@@ -4,7 +4,9 @@
 Este README foi feito usando a ferramenta: [Dillinger](https://dillinger.io)
 
 > README alterado AQUi
+> 
 > Estas alteração será usada para
+> 
 > prática de uso do git
 
 ### _Exemplos de diversas marcações para exibição de texto no README_
