@@ -1,41 +1,41 @@
 Comandos Git
 =============
 
-git init						Cria a estrutura inicial do repositório Git no computador local.
+git init                        Cria a estrutura inicial do repositório Git no computador local.
 
-git status						Verifica o status das alterações realizadas no repositório.
+git status                      Verifica o status das alterações realizadas no repositório.
 
-git add							Adiciona arquivos ao histórico do projeto, na staging.
+git add                         Adiciona arquivos ao histórico do projeto, na staging.
 
-git commit -m "comentario"		Registra/salva a alteração no repositório.
+git commit -m "comentario"      Registra/salva a alteração no repositório.
 
-git log							Permite visualizar as alterações feitas.
+git log                         Permite visualizar as alterações feitas.
 
-git show nr_do_commit			Permite visualizar informações sobre qualquer commit.
+git show nr_do_commit           Permite visualizar informações sobre qualquer commit.
 
-git remote add origin DESTINO	Informa a pasta remota.
+git remote add origin DESTINO   Informa a pasta remota.
 
-git remote -v					Permite visualizar o repositório remoto.
+git remote -v                   Permite visualizar o repositório remoto.
 
-git push -u origin master		Publica as alterações no repositório remoto.
+git push -u origin master       Publica as alterações no repositório remoto.
 
-git pull						Baixa as alterações no repositório remoto.
+git pull                        Baixa as alterações no repositório remoto.
 
-git clone DIRETORIO_REMOTO		Clona um diretorio remoto em sua maquina local.
+git clone DIRETORIO_REMOTO      Clona um diretorio remoto em sua maquina local.
 
-git checkout -b BRANCH_NAME		Cria uma branch (ramificação) e vai para ela.
+git checkout -b BRANCH_NAME     Cria uma branch (ramificação) e vai para ela.
 
-git checkout -b master			Volta da branch para o arquivo principal (trunk)
+git checkout -b master          Volta da branch para o arquivo principal (trunk)
 
-git merge BRANCH_NAME			Mescla duas branchs ... pode haver necessidade de ajuste manual.
+git merge BRANCH_NAME           Mescla duas branchs ... pode haver necessidade de ajuste manual.
 
-git tag -a TAG -m "comentario"	Cria uma tag.
+git tag -a TAG -m "comentario"  Cria uma tag.
 
-git tag							Exibe as tags existentes.
+git tag                         Exibe as tags existentes.
 
-git show TAG_NAME				Exibe a tag TAG_NAME.
+git show TAG_NAME               Exibe a tag TAG_NAME.
 
-git push origin --tags			Publica as tags no repositório remoto.
+git push origin --tags          Publica as tags no repositório remoto.
 
 
 arataca89@gmail.com
