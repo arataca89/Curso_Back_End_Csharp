@@ -27,5 +27,7 @@ git checkout -b BRANCH_NAME		Cria uma branch (ramificação) e vai para ela.
 
 git checkout -b master			Volta da branch para o arquivo principal (trunk)
 
+git merge BRANCH_NAME			Mescla duas branchs ... pode haver necessidade de ajuste manual.
+
 
 arataca89@gmail.com
