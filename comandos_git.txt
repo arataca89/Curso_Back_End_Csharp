@@ -23,13 +23,9 @@ git pull						Baixa as alterações no repositório remoto.
 
 git clone DIRETORIO_REMOTO		Clona um diretorio remoto em sua maquina local.
 
-<<<<<<< HEAD
-git checkout -b BRANCH			Cria uma nova branch e vai para ela.
+git checkout -b BRANCH_NAME		Cria uma branch (ramificação) e vai para ela.
 
 git checkout -b master			Volta da branch para o arquivo principal (trunk)
-=======
-git checkout -b BRANACH_NAME	Cria uma branch (ramificação)
->>>>>>> primeira_branch
 
 
 arataca89@gmail.com
