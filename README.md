@@ -9,7 +9,10 @@ Este README foi feito usando a ferramenta: [Dillinger](https://dillinger.io)
 > 
 > prática de uso do git
 
-<br><br>
+### Fluxo para a criação de novas branchs
+-  Estando na master: `--git checkout -b NOME_DA_BRANCH`
+-  Estando numa branch, primeiro volte para a master: `--git checkout master`
+
 ### _Exemplos de diversas marcações para exibição de texto no README_
 
 ---
