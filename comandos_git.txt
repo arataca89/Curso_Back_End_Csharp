@@ -7,7 +7,7 @@ git status						Verifica o status das alterações realizadas no repositório.
 
 git add							Adiciona arquivos ao histórico do projeto, na staging.
 
-git commit						Registra/salva a alteração no repositório.
+git commit -m "comentario"		Registra/salva a alteração no repositório.
 
 git log							Permite visualizar as alterações feitas.
 
@@ -28,6 +28,14 @@ git checkout -b BRANCH_NAME		Cria uma branch (ramificação) e vai para ela.
 git checkout -b master			Volta da branch para o arquivo principal (trunk)
 
 git merge BRANCH_NAME			Mescla duas branchs ... pode haver necessidade de ajuste manual.
+
+git tag -a TAG -m "comentario"	Cria uma tag.
+
+git tag							Exibe as tags existentes.
+
+git show TAG_NAME				Exibe a tag TAG_NAME.
+
+git push origin --tags			Publica as tags no repositório remoto.
 
 
 arataca89@gmail.com
